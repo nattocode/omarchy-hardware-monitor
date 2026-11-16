@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "natto.hardware-monitor",
+  "name": "Hardware Monitor",
+  "version": "0.2.0",
+  "author": "nattocode",
+  "description": "CPU, memory, storage and process manager in the Omarchy bar",
+  "kinds": ["bar-widget"],
+  "entryPoints": {"barWidget": "Panel.qml"},
+  "barWidget": {
+    "displayName": "Hardware Monitor",
+    "description": "CPU, memory, storage and processes",
+    "category": "System",
+    "defaultSection": "centerEnd",
+    "allowMultiple": false
+  }
+}
