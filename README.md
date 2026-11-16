@@ -15,7 +15,7 @@ The plugin runs locally. It reads Linux metrics from `/proc` and `/sys`, checks 
 omarchy plugin add https://github.com/nattocode/omarchy-hardware-monitor.git --enable
 ```
 
-The widget defaults to `centerEnd`, beside the centered clock. You can move it with `omarchy bar move natto.hardware-monitor --section centerEnd`.
+The manifest's `center` placement puts the widget beside the centered clock (`centerEnd` in the bar layout). You can move it with `omarchy bar move natto.hardware-monitor --section centerEnd`.
 
 ## Use
 

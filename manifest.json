@@ -11,7 +11,7 @@
     "displayName": "Hardware Monitor",
     "description": "CPU, memory, storage and processes",
     "category": "System",
-    "defaultSection": "centerEnd",
+    "defaultSection": "center",
     "allowMultiple": false
   }
 }
