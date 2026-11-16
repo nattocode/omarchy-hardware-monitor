@@ -2,6 +2,8 @@
 
 A theme-aware Omarchy Shell bar widget for monitoring CPU, RAM, swap, storage, and processes. Click its chip icon beside the clock to open the panel. The Processes tab lists running processes, supports search and sorting by memory or CPU usage, and lets you end your own processes after confirmation.
 
+![Hardware Monitor overview panel in Omarchy](preview.png)
+
 ## Requirements
 
 - Omarchy Quattro with shell plugin support
